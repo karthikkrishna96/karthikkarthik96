@@ -15,7 +15,7 @@
 
 ### 🧠 Languages and Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,react,arduino,raspberrypi,mysql,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,java,flask,arduino,raspberrypi,mysql,git,linux,vscode" />
 </p>
 
 ---
