@@ -1,14 +1,14 @@
 <h1 align="center">Hey 👋, I'm Karthik Krishna</h1>
-<h3 align="center">💻 IoT Enthusiast | Full-Stack Developer | Tech Explorer</h3>
+<h3 align="center">💻 IoT Enthusiast | Full-Stack Developer | Tech Explorer | Machine Learning Expert</h3>
 
 ---
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **IoT-based smart systems and automation projects**  
-- 🌱 I’m learning **Python, Node.js, and Cloud IoT integration**  
+- 🌱 I’m learning **Python, Machine Learning, and Full-stack development**  
 - 💡 Passionate about connecting hardware + software to solve real-world problems  
-- 💬 Ask me about **IoT, embedded systems, and web development**  
-- 📫 Reach me at: **[your-email@example.com]** *(optional)*  
+- 💬 Ask me about **IoT, Artificial Intelligence, and web development**  
+- 📫 Reach me at: **[karthikkrishna9633@gmail.com]** *(optional)*  
 - ⚡ Fun fact: I debug faster with coffee ☕  
 
 ---
